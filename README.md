@@ -1,2 +1,2 @@
-# UNNC_NOTE_CSAI_Y2S2
-Just a personal note
+# UNNC_NOTES_CSAI_Y2S2
+Just personal notes
